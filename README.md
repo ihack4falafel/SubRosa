@@ -11,6 +11,7 @@ SubRosa is basic tool written in python that helps automate some of tasks during
 - [ ] Add custom encoder template
 
 #### Demo
+As you can see in the following demo, options are pretty self explanatory. 
 <p align="center">
   <img  src="https://github.com/ihack4falafel/SubRosa/blob/master/Demo.gif">
 </p>
