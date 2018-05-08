@@ -7,8 +7,8 @@ SubRosa is basic tool written in python that helps automate some of tasks during
 - [x] Search for exsisting code caves
 - [x] Add new section
 - [x] Split file to smaller chuncks for further analysis
-- [ ] Add sandbox evasion template
-- [ ] Add custom encoder template
+- [ ] Add AV sandbox evasion template (heuristic analysis)
+- [ ] Add custom encoder template to bypass AV (signature-based) detection 
 
 As you can see in the following demo, options are pretty self explanatory. 
 <p align="center">
