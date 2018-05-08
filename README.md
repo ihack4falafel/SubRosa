@@ -4,9 +4,9 @@
  
 SubRosa is basic tool written in python that helps automate some of tasks during the PE files backdooring process. The following are list of the current and future features:
 - [x] Check/Disable ASLR
-- [x] Search for code caves
-- [x] Add code caves
-- [x] Split file for further analysis
+- [x] Search for exsisting code caves
+- [x] Add new section
+- [x] Split file to smaller chuncks for further analysis
 - [ ] Add sandbox evasion template
 - [ ] Add custom encoder template
 
